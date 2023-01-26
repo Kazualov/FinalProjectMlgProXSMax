@@ -1,0 +1,16 @@
+﻿  Character.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterFemaleBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterGeneratingApp.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(6,5): error C2084: функция "int main(void)" уже имеет текст реализации
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(6): message : см. предыдущее определение "main"
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CharacterMaleBuilder.cpp
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterGeneratingApp.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\CharacterMaleBuilder.cpp(18,14): error C2039: "setGender": не является членом "Character".
+D:\C++\CharacterGeneratingApp\CharacterGeneratingApp\Character.h(7): message : см. объявление "Character"
+  Создание кода...
